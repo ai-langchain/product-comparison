@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+groq
+requests
+beautifulsoup4
+python-dotenv
+google-search-results

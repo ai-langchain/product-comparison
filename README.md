@@ -251,12 +251,8 @@ Students can extend this project in several ways:
 
 ## 13. Contributors
 
-| Name | Role |
-|------|------|
-| *(Your Name)* | Project Lead / Full Stack |
-| *(Team Member 2)* | Agent Design |
-| *(Team Member 3)* | UI / Frontend |
-| *(Team Member 4)* | Documentation |
+- Kruthiga T B
+- Lavanya S
 
 ---
 
